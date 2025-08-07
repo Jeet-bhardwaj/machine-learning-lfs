@@ -1,0 +1,2 @@
+Model_Trening/Abishak[[:space:]]Sir[[:space:]]Work/final_features.csv filter=lfs diff=lfs merge=lfs -text
+Model_Trening/Abishak[[:space:]]Sir[[:space:]]Work/saved_models/SVM.pkl filter=lfs diff=lfs merge=lfs -text
